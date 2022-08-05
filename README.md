@@ -1,3 +1,2 @@
-# [WPOI](https://www.luogu.com.cn/team/43666)[网站](https://wpoisites.github.io/)
-# 开发完成
-# 特别鸣谢@exbg
+# lcoi-css
+little-cindy/lcoi 的css储存库
